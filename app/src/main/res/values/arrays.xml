@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones">
+
+        <item> Nombre </item>
+        <item> Correo </item>
+        <item> Telefono </item>
+        <item> Edad </item>
+        <item> Direccion </item>
+        <item> Sexo </item>
+
+    </string-array>
+
+</resources>
